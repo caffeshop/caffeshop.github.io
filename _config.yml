@@ -19,7 +19,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 오늘의 리뷰 # the main title
+title: 쇼핑라이 # the main title
 
 tagline: 쇼핑, 핫아이템, SNS유명한, 할인정보 # it will display as the sub-title
 
@@ -27,7 +27,7 @@ description: >- # used by seo meta and the atom feed
   쇼핑, 핫아이템, SNS유명한, 할인정보
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url:  "https://todayreview.github.io"
+url:  "https://caffeshop.github.io"
 
 github:
   username: todayreview # change to your github username
